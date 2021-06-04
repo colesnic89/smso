@@ -1,0 +1,21 @@
+{
+  "name": "colesnic89/smso",
+  "description": "SMSO API PHP implementation",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "version": "1.0.1",
+  "authors": [
+    {
+      "name": "Maxim Colesnic",
+      "email": "colesnic89@gmail.com"
+    }
+  ],
+  "require": {
+    "ext-json": "*",
+    "php": "^7.2.5 || ^8.0",
+    "guzzlehttp/guzzle": "7.*"
+  },
+  "autoload": {
+    "psr-4": {"SMSO\\": "src/"}
+  }
+}
