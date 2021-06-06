@@ -10,10 +10,10 @@ use SMSO\Model\Sender;
 use SMSO\Model\SendMessageResponse;
 
 /**
- * Class ApiClientInterface
+ * Class SmsoApiClientInterface
  * @package SMSO
  */
-interface ApiClientInterface
+interface SmsoApiClientInterface
 {
 
     /**

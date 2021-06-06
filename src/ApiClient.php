@@ -14,7 +14,7 @@ use SMSO\Model\SendMessageResponse;
  * Class ApiClient
  * @package SMSO
  */
-class ApiClient implements ApiClientInterface
+class ApiClient implements SmsoApiClientInterface
 {
 
     const BASE_API_URL = 'https://app.smso.ro/api/v1/';
