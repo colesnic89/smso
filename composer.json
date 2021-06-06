@@ -1,9 +1,9 @@
 {
   "name": "colesnic89/smso",
   "description": "SMSO API PHP implementation",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "license": "MIT",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "authors": [
     {
       "name": "Maxim Colesnic",
